@@ -1,12 +1,28 @@
-from .news import fetch_news
 from .rss import fetch_rss
-
+# from .news import fetch_news  (if you have one)
 
 def collect_all():
 
     data = []
 
-    data += fetch_news()
-    data += fetch_rss()
+    try:
+        data.extend(fetch_rss())
+    except Exception as e:
+        print("RSS error:", e)
 
-    return list(set(data))  # remove duplicates
+    # if you have other collectors add them here
+    # try:
+    #     data.extend(fetch_news())
+    # except Exception as e:
+    #     print("News error:", e)
+
+    # -------- REMOVE DUPLICATES SAFELY -------- #
+    unique = {}
+    for article in data:
+
+        key = article.get("url") or article.get("title")
+
+        if key:
+            unique[key] = article
+
+    return list(unique.values())
