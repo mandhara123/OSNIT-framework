@@ -1,9 +1,9 @@
 {
   "voidlink": {
-    "count": 36
+    "count": 38
   },
   "warlock": {
-    "count": 36
+    "count": 38
   },
   "Compromised dYdX npm and PyPI Packages D": {
     "count": 7
@@ -15,10 +15,10 @@
     "count": 7
   },
   "glassworm": {
-    "count": 36
+    "count": 38
   },
   "canfail": {
-    "count": 36
+    "count": 38
   },
   "\u26a1 Weekly Recap: AI Skill Malware, 31Tbps": {
     "count": 7
@@ -117,430 +117,430 @@
     "count": 6
   },
   "\u26a1 Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hac": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4217": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5035": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20267": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-29044": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-29045": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5910": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5916": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5919": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5923": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5924": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5925": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5926": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5927": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5928": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5929": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5930": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20048": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4535": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4592": {
-    "count": 29
+    "count": 31
   },
   "CVE-2017-20187": {
-    "count": 29
+    "count": 31
   },
   "CVE-2018-25092": {
-    "count": 29
+    "count": 31
   },
   "CVE-2018-25093": {
-    "count": 29
+    "count": 31
   },
   "CVE-2021-4430": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-47426": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20071": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-36029": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-36769": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-40062": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-40661": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41259": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42029": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46731": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46732": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5850": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5859": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5917": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5918": {
-    "count": 29
+    "count": 31
   },
   "Over 60 Software Vendors Issue Security Fixes Across OS, Clo": {
-    "count": 29
+    "count": 31
   },
   "apt28": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-3277": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-35896": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-38965": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-3961": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-40660": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4198": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42027": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4625": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5627": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5831": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5950": {
-    "count": 29
+    "count": 31
   },
   "China-Linked DKnife AitM Framework Targets Routers for Traff": {
     "count": 29
   },
   "New Keenadu backdoor found in Android firmware, Google Play ": {
-    "count": 29
+    "count": 31
   },
   "New ClickFix attack abuses nslookup to retrieve PowerShell p": {
     "count": 29
   },
   "CVE-2023-1194": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-1715": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20005": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20031": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20041": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20042": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20063": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20070": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20074": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20083": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20086": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20095": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20114": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20155": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20170": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20175": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20177": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20195": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20196": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20206": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20213": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20219": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20220": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20244": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20245": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20246": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20247": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20255": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20256": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20264": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20270": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-20702": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-23368": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-23369": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-26452": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-26453": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-26454": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-26455": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-26456": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-29043": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-29046": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-29047": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31017": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32818": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32825": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32832": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32834": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32835": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32836": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32837": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32838": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32839": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32840": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39299": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39301": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4043": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41344": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41345": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41346": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41347": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41348": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41352": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41354": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41355": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41356": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41357": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42669": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-43076": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-43087": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-44398": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45189": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4591": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46251": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46817": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47233": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5082": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5849": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5852": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5854": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5855": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5856": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5875": {
-    "count": 29
+    "count": 31
   },
   "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormabl": {
-    "count": 29
+    "count": 31
   },
   "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack \u2014 Pa": {
-    "count": 29
+    "count": 31
   },
   "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup": {
-    "count": 29
+    "count": 31
   },
   "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Oth": {
-    "count": 29
+    "count": 31
   },
   "Patch Tuesday, January 2026 Edition": {
-    "count": 29
+    "count": 31
   },
   "The Kimwolf Botnet is Stalking Your Local Network": {
-    "count": 29
+    "count": 31
   },
   "Most Parked Domains Now Serving Malicious Content": {
     "count": 29
@@ -549,13 +549,13 @@
     "count": 29
   },
   "Eurail says stolen traveler data now up for sale on dark web": {
-    "count": 29
+    "count": 31
   },
   "Infostealer malware found stealing OpenClaw secrets for firs": {
-    "count": 29
+    "count": 31
   },
   "CISA gives feds 3 days to patch actively exploited BeyondTru": {
-    "count": 29
+    "count": 31
   },
   "Google patches first Chrome zero-day exploited in attacks th": {
     "count": 29
@@ -564,37 +564,37 @@
     "count": 29
   },
   "Microsoft Under Pressure to Bolster Defenses for BYOVD Attac": {
-    "count": 29
+    "count": 31
   },
   "Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy \u2014 Again": {
-    "count": 29
+    "count": 31
   },
   "Booz Allen Announces General Availability of Vellox Reverser": {
-    "count": 29
+    "count": 31
   },
   "Senegalese Data Breaches Expose Lack of Security Maturity": {
-    "count": 29
+    "count": 31
   },
   "In Bypassing MFA, ZeroDayRAT Is 'Textbook Stalkerware'": {
-    "count": 29
+    "count": 31
   },
   "Microsoft Patches 6 Actively Exploited Zero-Days": {
-    "count": 29
+    "count": 31
   },
   "'Reynolds' Bundles BYOVD With Ransomware Payload": {
-    "count": 29
+    "count": 31
   },
   "Data Tool to Triage Exploited Vulnerabilities Can Make KEV M": {
-    "count": 29
+    "count": 31
   },
   "CISA Makes Unpublicized Ransomware Updates to KEV Catalog": {
-    "count": 29
+    "count": 31
   },
   "Attackers Use Windows Screensavers to Drop Malware, RMM Tool": {
-    "count": 29
+    "count": 31
   },
   "Big Breach or Smooth Sailing? Mexican Gov't Faces Leak Alleg": {
-    "count": 29
+    "count": 31
   },
   "8-Minute Access: AI Accelerates Breach of AWS Environment": {
     "count": 29
@@ -603,1077 +603,1104 @@
     "count": 29
   },
   "CVE-2017-7252": {
-    "count": 29
+    "count": 31
   },
   "CVE-2020-28407": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-3172": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-43554": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-43555": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-44569": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-45373": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-45805": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-46808": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-46818": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-46849": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-46859": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-46860": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-47420": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-47428": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-47430": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-47432": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-47445": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-47588": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-48192": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-48193": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-48454": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-48455": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-48456": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-48457": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-48458": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-48459": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-48460": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-48461": {
-    "count": 29
+    "count": 31
   },
   "CVE-2022-4900": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-1192": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-1193": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-1476": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-1713": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-1714": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-1716": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-1717": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-1718": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-1719": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-1720": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-23702": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-25700": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-25800": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-25960": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-25990": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-26015": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-27605": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-28748": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-28794": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31016": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31018": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31019": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31020": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31021": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31022": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31023": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31026": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31027": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31102": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-31579": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-3164": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32121": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-3246": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32508": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-32741": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-33226": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-33227": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-33228": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-33924": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-3397": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-3399": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-34179": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-34259": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-34260": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-34261": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-34383": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-35910": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-35911": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-36022": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-36034": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-36409": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-36529": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-36620": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-36621": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-36677": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-38382": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-38391": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-38406": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-38407": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-38469": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-38470": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-38471": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-38472": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-38473": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-3893": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39042": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39047": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39048": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39050": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39051": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39053": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39054": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39057": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-3909": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39281": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39283": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39284": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-39345": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-3972": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-40061": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-40207": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-40215": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-40609": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4091": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-40922": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41164": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41260": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41343": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41350": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41351": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41353": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41378": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41652": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41685": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41725": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41726": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-41914": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4197": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42299": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42631": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42632": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42633": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42634": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42635": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42636": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42637": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42638": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42639": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42640": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42641": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42642": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42643": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42644": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42645": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42646": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42647": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42648": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42649": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42650": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42651": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42652": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42653": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42654": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42655": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42670": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42750": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-42802": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-43018": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-43193": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-43194": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-43336": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-43665": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-43982": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-44025": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-44271": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4452": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-44954": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45001": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45012": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45013": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45014": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45015": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45016": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45017": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45018": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45019": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45024": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45046": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45055": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45069": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45074": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45111": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45112": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45113": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45114": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45161": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45163": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45201": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45202": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45203": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45323": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45324": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45325": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45326": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45327": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45328": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45329": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45330": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45331": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45332": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45333": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45334": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45335": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45336": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45337": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45338": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45339": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45340": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45341": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45342": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45343": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45344": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45345": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45346": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45347": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45360": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45362": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45556": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45657": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45827": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-45830": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46084": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46176": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46254": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46327": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46352": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46380": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46381": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46382": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46404": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46428 (hadsky)": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46448": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46475": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46482": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46517": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46595": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46695": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46724": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46725": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46728": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46775": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46776": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46777": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46778": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46779": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46780": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46781": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46782": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46783": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46802": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46821": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46822": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46823": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46824": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46846": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46847": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46848": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46911": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46925": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46927": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46928": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46930": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46931": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46947": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46954": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46958": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46963": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46964": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46980": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-46981": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4699": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4700": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47004": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47177": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47182": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47184": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47185": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47186": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47204": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47234": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47235": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47249": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47253": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47258": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47259": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47260": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47271": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-47272": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4767": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4768": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4769": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4810": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4858": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4910": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4930": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-4996": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5088": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5090": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5178": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5181": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5228": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5352": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5354": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5355": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5358": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5408": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5454": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5480": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5482": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5530": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5601": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5605": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5606": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5625": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5678": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5707": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5719": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5763": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5765": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5766": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5771": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5777": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5823": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5824": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5825": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5846": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5847": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5851": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5853": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5857": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5858": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5860": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5876": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5920": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5945": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5946": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5948": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5963": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5964": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5967": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5968": {
-    "count": 29
+    "count": 31
   },
   "CVE-2023-5969": {
-    "count": 29
+    "count": 31
   },
   "Keenadu Firmware Backdoor Infects Android Tablets via Signed": {
-    "count": 29
+    "count": 31
   },
   "Webinar: How Modern SOC Teams Use AI and Context to Investig": {
-    "count": 29
+    "count": 31
   },
   "Microsoft Finds \u201cSummarize with AI\u201d Prompts Manipulating Cha": {
-    "count": 29
+    "count": 31
   },
   "npm\u2019s Update to Harden Their Supply Chain, and Points to Con": {
-    "count": 29
+    "count": 31
   },
   "Researchers Observe In-the-Wild Exploitation of BeyondTrust ": {
-    "count": 29
+    "count": 31
   },
   "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngin": {
-    "count": 29
+    "count": 31
   },
   "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletpro": {
-    "count": 29
+    "count": 31
   },
   "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Again": {
-    "count": 29
+    "count": 31
   },
   "Microsoft Patches 59 Vulnerabilities Including Six Actively ": {
-    "count": 29
+    "count": 31
   },
   "SSHStalker Botnet Uses IRC C2 to Control Linux Systems via L": {
-    "count": 29
+    "count": 31
   },
   "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Secur": {
-    "count": 29
+    "count": 31
   },
   "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated": {
-    "count": 29
+    "count": 31
   },
   "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Em": {
-    "count": 29
+    "count": 31
   },
   "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage At": {
-    "count": 29
+    "count": 31
   },
   "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal": {
-    "count": 29
+    "count": 31
   },
   "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Rem": {
-    "count": 29
+    "count": 31
+  },
+  "Supply Chain Attack Embeds Malware in Android Devices": {
+    "count": 2
+  },
+  "CISA Flags Four Security Flaws Under Active Exploitation in ": {
+    "count": 2
+  },
+  "Patch Tuesday, February 2026 Edition": {
+    "count": 2
+  },
+  "Flaws in popular VSCode extensions expose developers to atta": {
+    "count": 2
+  },
+  "Chinese hackers exploiting Dell zero-day flaw since mid-2024": {
+    "count": 2
+  },
+  "Notepad++ boosts update security with \u2018double-lock\u2019 mechanis": {
+    "count": 2
+  },
+  "RMM Abuse Explodes as Hackers Ditch Malware": {
+    "count": 2
+  },
+  "ClickFix Attacks Abuses DNS Lookup Command to Deliver Modelo": {
+    "count": 2
+  },
+  "Researchers Show Copilot and Grok Can Be Abused as Malware C": {
+    "count": 2
   }
 }
